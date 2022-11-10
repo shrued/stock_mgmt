@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/shrued/IdeaProjects/Assignment4/src/model</OriginalElement>
+  <nodes>
+    <node x="306.6153934027577" y="206.7370124996164">model.PortfolioModelImpl</node>
+    <node x="-93.8522197178915" y="-13.799341629827879">model.PortfolioModel</node>
+    <node x="-65.81390654713174" y="233.22667849789087">model.StockModel</node>
+    <node x="336.59707600943085" y="589.0468678511974">model.StockModelImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="model.StockModelImpl" target="model.StockModel" relationship="REALIZATION">
+      <point x="-150.5" y="0.0" />
+      <point x="84.68609345286826" y="804.0468678511974" />
+      <point x="0.0" y="126.0" />
+    </edge>
+    <edge source="model.PortfolioModelImpl" target="model.PortfolioModel" relationship="REALIZATION">
+      <point x="0.0" y="-126.5" />
+      <point x="472.1153934027577" y="79.20065837017212" />
+      <point x="165.5" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6318785578747628" showDependencies="false" x="282.0" y="512.9999999999999" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

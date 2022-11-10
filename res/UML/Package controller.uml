@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/shrued/IdeaProjects/Assignment4/src/controller</OriginalElement>
+  <nodes>
+    <node x="-98.0" y="75.0">controller.StockControllerImpl</node>
+    <node x="-81.0" y="-14.0">controller.StockController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="controller.StockControllerImpl" target="controller.StockController" relationship="REALIZATION">
+      <point x="0.0" y="-37.5" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.5" showDependencies="false" x="11.0" y="78.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
